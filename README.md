@@ -45,7 +45,7 @@ G --> H[Display Quiz + History]
 ```
 
 
-## 🧩 Example Output
+## 🧩 Example Output by Backend
 
 ```json
 {
